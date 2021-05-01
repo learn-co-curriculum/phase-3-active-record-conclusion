@@ -16,7 +16,7 @@ also learned that instead of making individual, manual changes to databases, we
 can use Active Record migrations, which apply database changes as an organizated
 structure. Migrations serve as a sort of version control system for our
 database, so we covered how they work and how to write our own. Ultimately, we
-saw how we can create CRUD actions—create, read, update, delete—for our
+saw how we can create CRUD actions — create, read, update, delete — for our
 applications with Active Record, an essential skill we'll be using as we create
 web applications. We also encountered Rake, a tool that helps us create and
 automate tasks in Ruby.
